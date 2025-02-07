@@ -1,4 +1,4 @@
-# Data Science Researcher
+# Data Science and Computational Intelligence Researcher
 
 ### Education
 - MBA  in Data Science and Analytics,  University of São Paulo (Since April 2024)
