@@ -1,27 +1,6 @@
-theme: jekyll-theme-minimal
 title: Davide da Silva
 #logo: /assets/img/headshot_circle.jpg
-logo: headshot_circle.jpg
+logo: headshot_circle.jpeg
 #description: text below image
 show_downloads: true
-#theme: jekyll-theme-minimal
-
-# Custom CSS
-sass:
-  style: compressed
-
-# Circular image CSS
-additional_css:
-  - |
-    .circular-image {
-      width: 150px;  /* Adjust the size as needed */
-      height: 150px; /* Adjust the size as needed */
-      border-radius: 50%;
-      overflow: hidden;
-      display: inline-block;
-    }
-
-    .circular-image img {
-      width: 100%;
-      height: auto;
-    
+theme: jekyll-theme-minimal
