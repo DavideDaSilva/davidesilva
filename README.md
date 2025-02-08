@@ -1,5 +1,5 @@
 # Data Science and Computational Intelligence Researcher
-**Technical Skills: Python, SQL, Power BI, Excel, Git, spark, Node.js, JavaScript, C, C++**
+**Technical Skills: Python, SQL, Power BI, Excel, Git, Spark, Node.js, JavaScript, C, C++**
 
 ### Education
 - MBA,  Data Science and Analytics |  University of São Paulo (_Since April 2024_)
@@ -9,10 +9,10 @@
 ### Work Experience
 
 **Data Scientist and Data Analytics Freelance (_December 2023 - Present_)**
-- Supervised and Unsupervised Machine Learning Model Development: Led the end-to-end development of machine learning models for various clients, focusing on both supervised and unsupervised techniques to uncover actionable insights and drive business decisions.
-- ETL (Extract, Transform, Load): Designed and implemented robust ETL processes to extract data from diverse sources, transform it into a suitable format, and load it into data storage systems, ensuring data integrity and accessibility.
+- Supervised and Unsupervised Machine Learning Model Development: Led the end-to-end development of machine learning models, focusing on both supervised and unsupervised techniques to uncover actionable insights and drive business decisions.
+- ETL (Extract, Transform, Load): Designed and implemented robust **ETL** processes to extract data from diverse sources, transform it into a suitable format, and load it into data storage systems, ensuring data integrity and accessibility.
 - Data Cleaning and Preprocessing: Implemented data cleaning and preprocessing pipelines to ensure high-quality input data for model training, including handling missing data, outlier detection, and feature engineering.
-- Exploratory Data Analysis (EDA): Conducted thorough exploratory data analysis using Python libraries (pandas, numpy, matplotlib, seaborn, plotly) to uncover patterns, trends, and relationships in the data.
+- Exploratory Data Analysis **(EDA)**: Conducted thorough exploratory data analysis using **Python** libraries (pandas, numpy, matplotlib, seaborn, plotly) to uncover patterns, trends, and relationships in the data.
 - Model Evaluation and Optimization: Utilized a range of evaluation metrics and techniques to assess model performance, including cross-validation, hyperparameter tuning, and ensemble methods to improve predictive accuracy.
 - Visualization and Reporting: Created compelling visualizations and reports to communicate complex analytical findings to non-technical stakeholders, ensuring clear and actionable insights.
 
@@ -38,24 +38,26 @@
 - Experience as a web systems developer, utilizing languages and tools such as JavaScript, HTML, CSS, PostgreSQL, and React.
 
 ### Projects
-Using Principal Component Analysis (PCA), I developed a model to identify potential customers for bank loans. This method allowed for maximizing the conversion rate and reducing marketing costs. The project was carried out using **Python** and the libraries pandas, numpy, matplotlib, seaborn, plotly, and scikit-learn.
+Using Principal Component Analysis (PCA), I developed a model to identify potential customers for bank loans. This method allowed for maximizing the conversion rate and reducing marketing costs. The project was carried out using **Python** and the libraries pandas, numpy, matplotlib, seaborn, plotly, and **scikit-learn**.
 
 [Available](https://github.com/DavideDaSilva/Data-Science/blob/main/Unsupervised%20Machine%20Learning/An%C3%A1lise%20Fatorial%20PCA/Script%20-%20Empr%C3%A9stimo.ipynb)
 <!-- Figure -->
 
-I analyzed and segmented credit card operator customers, identifying loyalty groups through Unsupervised Machine Learning techniques. **Python** was used for this project, along with the libraries pandas, numpy, matplotlib, seaborn, plotly, and scikit-learn.
+I analyzed and segmented credit card operator customers, identifying loyalty groups through Unsupervised Machine Learning techniques. **Python** was used for this project, along with the libraries pandas, numpy, matplotlib, seaborn, plotly, and **scikit-learn**.
 
 [Available](https://github.com/DavideDaSilva/Data-Science/blob/main/Unsupervised%20Machine%20Learning/An%C3%A1lise%20de%20Cluster%20I/Cartao_De_Cr%C3%A9dito_Clientes.ipynb)
 <!-- Figure -->
 
-I conducted a cluster analysis in retail, applying hierarchical methods and K-means to gain valuable marketing insights. This project utilized **Python** and the libraries pandas, numpy, matplotlib, seaborn, plotly, and scikit-learn.
+I conducted a cluster analysis in retail, applying hierarchical methods and K-means to gain valuable marketing insights. This project utilized **Python** and the libraries pandas, numpy, matplotlib, seaborn, plotly, and **scikit-learn**.
 
 [Available](https://github.com/DavideDaSilva/Data-Science/blob/main/Unsupervised%20Machine%20Learning/An%C3%A1lise%20de%20Cluster%20I/Script%20-%20Regional.ipynb)
 <!-- Figure -->
 
-I developed a predictive model to forecast stock returns, employing multiple nonlinear regression. For this, I used **Python** and the libraries pandas, numpy, matplotlib, seaborn, plotly, statstests (stepwise, shapiro_francia), boxcox, statsmodels, and scikit-learn.
+I developed a predictive model to forecast stock returns, employing multiple nonlinear regression. For this, I used **Python** and the libraries pandas, numpy, matplotlib, seaborn, plotly, **statstests** (stepwise, shapiro_francia), **boxcox**, **statsmodels**, and **scikit-learn**.
 
 [Available](https://github.com/DavideDaSilva/Data-Science/blob/main/Supervised%20Machine%20Learning/An%C3%A1lise%20de%20Regressao%20Simples%20e%20Multipla/Regressao_Nao_Linear_Multipla_retorno.ipynb)
+
+<!-- ![NOME DA IMAGEN] () -->
 <!-- Figure -->
 
 
