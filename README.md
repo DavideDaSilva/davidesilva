@@ -8,7 +8,7 @@
 
 ### Work Experience
 
-**Data Scientist and Data Analytics Freelance (_December 2023 - Present_)**
+**Data Science and Analytics Independent Consultant (_December 2023 - Present_)**
 - Supervised and Unsupervised Machine Learning Model Development: Led the end-to-end development of machine learning models, focusing on both supervised and unsupervised techniques to uncover actionable insights and drive business decisions.
 - ETL (Extract, Transform, Load): Designed and implemented robust **ETL** processes to extract data from diverse sources, transform it into a suitable format, and load it into data storage systems, ensuring data integrity and accessibility.
 - Data Cleaning and Preprocessing: Implemented data cleaning and preprocessing pipelines to ensure high-quality input data for model training, including handling missing data, outlier detection, and feature engineering.
