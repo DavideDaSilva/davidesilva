@@ -7,7 +7,7 @@
 - B.S., Computer Engineering       |  Federal University of Santa Catarina (_May 2022_)
 
 ### Work Experience
-**Web Systems Developer @ Khomp Indústria e Comércio ltda.**
+**Web Systems Developer @ Khomp Indústria e Comércio ltda. (_December 2021 - December 2023_)**
 **Responsibilities**:
 - Development of the Insight platform (SaaS), an analytics (BI) solution for telephony systems, offering historical and real-time performance data such as Network Effectiveness Ratio (NER), Answer Seizure Ratio (ASR), Average Call Duration (ACD), and Call Attempts Per Second (CAPS) for call centers, carriers, and companies with high call volumes. This solution significantly improved the operational efficiency of companies both nationally and internationally (Colombia, Chile, USA).
 - Adaptation of the Insight platform for different time zones in countries such as Mexico, Colombia, and the USA, named “Insight Multiple Country.”
@@ -23,7 +23,7 @@
   - API Testing and Debugging: Insomnia and Postman
   - Tools: Git (GitLab and GitHub), Docker, Kubernetes, Azure, Linux
 
-**Junior Web Systems Developer @ Empresa Júnior da Engenharia de Computação (EJEC-UFSC)**
+**Junior Web Systems Developer @ Empresa Júnior da Engenharia de Computação (EJEC-UFSC) - (_September 2019 to December 2020_)**
 - Experience as a Project Management Advisor, researching and implementing the Function Point Analysis (FPA) pricing technique to ensure precise product pricing, and training the team in its use.
 - Experience as a web systems developer, utilizing languages and tools such as JavaScript, HTML, CSS, PostgreSQL, and React.
 
