@@ -55,9 +55,8 @@ I conducted a cluster analysis in retail, applying hierarchical methods and K-me
 
 I developed a predictive model to forecast stock returns, employing multiple nonlinear regression. For this, I used **Python** and the libraries pandas, numpy, matplotlib, seaborn, plotly, **statstests** (stepwise, shapiro_francia), **boxcox**, **statsmodels**, and **scikit-learn**.
 
-[Available](https://github.com/DavideDaSilva/Data-Science/blob/main/Supervised%20Machine%20Learning/An%C3%A1lise%20de%20Regressao%20Simples%20e%20Multipla/Regressao_Nao_Linear_Multipla_retorno.ipynb)
-
 ![Multiple Nonlinear Regression](/assets/img/valores_previstos.png)
+[Available](https://github.com/DavideDaSilva/Data-Science/blob/main/Supervised%20Machine%20Learning/An%C3%A1lise%20de%20Regressao%20Simples%20e%20Multipla/Regressao_Nao_Linear_Multipla_retorno.ipynb)
 <!-- ![Multiple Nonlinear Regression](https://github.com/DavideDaSilva/davidesilva/tree/main/assets/img/valores_previstos.png) -->
 <!-- Figure -->
 
