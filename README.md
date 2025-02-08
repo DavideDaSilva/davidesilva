@@ -18,6 +18,7 @@
 
 
 **Web Systems Developer @ Khomp Indústria e Comércio ltda. (_December 2021 - December 2023_)**
+
 **Responsibilities**:
 - Development of the Insight platform (SaaS), an analytics (BI) solution for telephony systems, offering historical and real-time performance data such as Network Effectiveness Ratio (NER), Answer Seizure Ratio (ASR), Average Call Duration (ACD), and Call Attempts Per Second (CAPS) for call centers, carriers, and companies with high call volumes. This solution significantly improved the operational efficiency of companies both nationally and internationally (Colombia, Chile, USA).
 - Adaptation of the Insight platform for different time zones in countries such as Mexico, Colombia, and the USA, named “Insight Multiple Country.”
