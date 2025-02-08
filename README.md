@@ -62,6 +62,6 @@ I developed a predictive model to forecast stock returns, employing multiple non
 
 
 ### Publications
-Silva, D.C. et al. (2024). Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques. In: Workshop de Trabalhos em Andamento - Conference on Graphics, Patterns and Images (SIBGRAPI), 37. Porto Alegre: Sociedade Brasileira de Computação, pp. 94-98. https://doi.org/10.5753/sibgrapi.est.2024.31651
+1. Silva, D.C. et al. (2024). Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques. In: Workshop de Trabalhos em Andamento - Conference on Graphics, Patterns and Images (SIBGRAPI), 37. Porto Alegre: Sociedade Brasileira de Computação, pp. 94-98. https://doi.org/10.5753/sibgrapi.est.2024.31651
 
 
