@@ -3,7 +3,7 @@ description: Welcome to my personal website, where I share my ideas and projects
 logo: /assets/img/headshot_circle.jpeg
 show_downloads: true
 email: mailto: silvadavide245@gmail.com
-github: https://github.com/DavideDaSilva
+# github: https://github.com/DavideDaSilva
 theme: jekyll-theme-minimal
 # baseurl: "/your-directory" # If the site is hosted in a subdirectory
 # url: https://davidedasilva.github.io/davidesilva/
