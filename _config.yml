@@ -4,10 +4,10 @@ logo: /assets/img/headshot_circle.jpeg
 show_downloads: true
 theme: jekyll-theme-minimal
 # baseurl: "/your-directory" # If the site is hosted in a subdirectory
-url: https://davidedasilva.github.io/davidesilva/
+# url: https://davidedasilva.github.io/davidesilva/
 # Social media links
 # social:
 email: mailto: silvadavide245@gmail.com
-  # twitter: https://twitter.com/yourusername
-linkedin: https://www.linkedin.com/in/davide-da-silva-softwaredeveloper-datascientist?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTWgc9o0%2FRDO20ly721uZSA%3D%3D
-github: https://github.com/DavideDaSilva
+# twitter: https://twitter.com/yourusername
+# linkedin: https://www.linkedin.com/in/davide-da-silva-softwaredeveloper-datascientist?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTWgc9o0%2FRDO20ly721uZSA%3D%3D
+# github: https://github.com/DavideDaSilva
