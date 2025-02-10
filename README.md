@@ -38,7 +38,7 @@
 - Experience as a Project Management Advisor, researching and implementing the Function Point Analysis (FPA) pricing technique to ensure precise product pricing, and training the team in its use.
 - Experience as a web systems developer, utilizing languages and tools such as JavaScript, HTML, CSS, PostgreSQL, and React.
 
-### Projects
+### Listed projects
 Using Principal Component Analysis (PCA), I developed a model to identify potential customers for bank loans. This method allowed for maximizing the conversion rate and reducing marketing costs. The project was carried out using **Python** and the libraries pandas, numpy, matplotlib, seaborn, plotly, and **scikit-learn**.
 
 [Available](https://github.com/DavideDaSilva/Data-Science/blob/main/Unsupervised%20Machine%20Learning/An%C3%A1lise%20Fatorial%20PCA/Script%20-%20Empr%C3%A9stimo.ipynb)
