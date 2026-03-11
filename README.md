@@ -4,7 +4,7 @@
 ### Education
 - Ph.D.,  Informatic Engineering   |  University of Coimbra - Portugal (_Since September 2025_)
 - MBA,  Data Science and Analytics |  University of São Paulo - Brazil (_Since April 2024_)
-- M.S., Computer Science           |  Pontifical Catholic University of Rio Grande do Sul - Brazil (_April 2024_)
+- MSc., Computer Science           |  Pontifical Catholic University of Rio Grande do Sul - Brazil (_April 2024_)
 - B.S., Computer Engineering       |  Federal University of Santa Catarina - Brazil (_May 2022_)
 
 ### Work Experience
